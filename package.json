@@ -1,6 +1,6 @@
 {
   "name": "interval-to-duration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts mysql interval to momentjs duration",
   "main": "index.js",
   "scripts": {
