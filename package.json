@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gargol/interval-to-duration",
+    "url": "https://github.com/gargol/interval-to-duration"
   },
   "scripts": {
     "test": "node node_modules/.bin/mocha  --recursive ./tests"
