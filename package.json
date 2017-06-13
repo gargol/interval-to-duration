@@ -1,0 +1,27 @@
+{
+  "name": "interval-to-duration",
+  "version": "1.0.0",
+  "description": "Converts mysql interval to momentjs duration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/mocha  --recursive ./tests"
+  },
+  "keywords": [
+    "mysql",
+    "momentjs",
+    "datetime",
+    "duration",
+    "converter",
+    "moment",
+    "interval"
+  ],
+  "author": "Nazar Gargol",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
