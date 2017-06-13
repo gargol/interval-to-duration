@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Converts mysql interval to momentjs duration",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gargol/interval-to-duration",
+  },
   "scripts": {
     "test": "node node_modules/.bin/mocha  --recursive ./tests"
   },
